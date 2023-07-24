@@ -11,3 +11,7 @@ def prime(n):
         return False
 n=int(input())
 print(prime(n))
+x=0
+while x<100:
+    x+=2
+print(x)
