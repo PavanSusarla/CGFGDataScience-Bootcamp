@@ -5,4 +5,4 @@ def nSum(n):
         ans += i
     return ans
 n=int(input("Enter ther number"))
-print(nSum(n)
+print(nSum(n))
